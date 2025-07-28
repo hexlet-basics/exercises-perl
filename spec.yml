@@ -1,7 +1,7 @@
 ---
 
 language:
-  docker_image: "hexletbasics/exercises-perl"
+  docker_image: "ghcr.io/hexlet-basics/exercises-perl"
   extension: perl
   exercise_filename: main.pm
   exercise_test_filename: test.pl
